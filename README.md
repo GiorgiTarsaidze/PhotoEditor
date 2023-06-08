@@ -74,7 +74,7 @@ Save file or Continue? (S/C) S
 Name of the new file? modified_image.jpg
 ```
 ## Video Tutorial
-- You can additionaly watch [this VIDEO DEMO](https://www.youtube.com/watch?v=eZsM-Hxa_Ts), that I created for Harvard CS50P: 
+- You can additionally watch [this VIDEO DEMO](https://www.youtube.com/watch?v=eZsM-Hxa_Ts), that I created for Harvard CS50P: 
 
 ## Acknowledgments
 
